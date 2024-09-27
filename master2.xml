@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="master sute ">
+  <test thread-count="5" name="Test">
+  <groups>
+  <run>
+  <include name="sanity"/> 
+  <include name="rigression"/>
+  
+  </run>
+  </groups>
+     
+    
+    <classes>
+   <class name="testCases.TC_001oginToApplication"/>
+      <class name="testCases.TC_2_Invalid_Valid_LoginToApplication"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

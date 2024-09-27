@@ -1,0 +1,4 @@
+[TestNG] Time taken by org.testng.reporters.XMLReporter@62566842: 18 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f93e4a8: 16 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@67110f71: 16 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@6f89292e: 0 ms

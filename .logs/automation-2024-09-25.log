@@ -1,0 +1,11 @@
+[Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\Madane\AppData\Local\Temp\testng-eclipse--858891835\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+*****starting test case*****
+*****click login*****
